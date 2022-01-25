@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.exe
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.deps.json
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.runtimeconfig.json
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.runtimeconfig.dev.json
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.dll
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\ref\instruments.dll
+C:\Users\USER\Desktop\VS projets\instruments\instruments\bin\Debug\net5.0\instruments.pdb
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.AssemblyInfo.cs
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.dll
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\ref\instruments.dll
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.pdb
+C:\Users\USER\Desktop\VS projets\instruments\instruments\obj\Debug\net5.0\instruments.genruntimeconfig.cache
