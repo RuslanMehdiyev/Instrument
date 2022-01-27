@@ -21,6 +21,7 @@ namespace instruments
             {
                 instruments[i].Play();
             }
+            Console.WriteLine("Досвидание. Ждем вас еще.");
             Console.Read();
         }
     }
